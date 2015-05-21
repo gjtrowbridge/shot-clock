@@ -1,0 +1,15 @@
+.shot_clock {
+  width:100%;
+  text-align:center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  color:red;
+  font-size: 110vh;
+  background-color: gray;
+}
+
+.blanked {
+  background-color: black;
+  color:black;
+}
